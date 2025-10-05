@@ -1,0 +1,14 @@
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\3-pass by ref\bin\Debug\net8.0\3-pass by ref.exe
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\3-pass by ref\bin\Debug\net8.0\3-pass by ref.deps.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\3-pass by ref\bin\Debug\net8.0\3-pass by ref.runtimeconfig.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\3-pass by ref\bin\Debug\net8.0\3-pass by ref.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\3-pass by ref\bin\Debug\net8.0\3-pass by ref.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\3-pass by ref\obj\Debug\net8.0\3-pass by ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\3-pass by ref\obj\Debug\net8.0\3-pass by ref.AssemblyInfoInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\3-pass by ref\obj\Debug\net8.0\3-pass by ref.AssemblyInfo.cs
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\3-pass by ref\obj\Debug\net8.0\3-pass by ref.csproj.CoreCompileInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\3-pass by ref\obj\Debug\net8.0\3-pass by ref.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\3-pass by ref\obj\Debug\net8.0\refint\3-pass by ref.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\3-pass by ref\obj\Debug\net8.0\3-pass by ref.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\3-pass by ref\obj\Debug\net8.0\3-pass by ref.genruntimeconfig.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\3-pass by ref\obj\Debug\net8.0\ref\3-pass by ref.dll

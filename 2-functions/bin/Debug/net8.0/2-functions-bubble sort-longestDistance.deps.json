@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2-functions-bubble sort-longestDistance/1.0.0": {
+        "runtime": {
+          "2-functions-bubble sort-longestDistance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2-functions-bubble sort-longestDistance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\bin\Debug\net8.0\2-functions-bubble sort-longestDistance.exe
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\bin\Debug\net8.0\2-functions-bubble sort-longestDistance.deps.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\bin\Debug\net8.0\2-functions-bubble sort-longestDistance.runtimeconfig.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\bin\Debug\net8.0\2-functions-bubble sort-longestDistance.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\bin\Debug\net8.0\2-functions-bubble sort-longestDistance.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions-bubble sort-longestDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions-bubble sort-longestDistance.AssemblyInfoInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions-bubble sort-longestDistance.AssemblyInfo.cs
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions-bubble sort-longestDistance.csproj.CoreCompileInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions-bubble sort-longestDistance.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\refint\2-functions-bubble sort-longestDistance.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions-bubble sort-longestDistance.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions-bubble sort-longestDistance.genruntimeconfig.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\ref\2-functions-bubble sort-longestDistance.dll

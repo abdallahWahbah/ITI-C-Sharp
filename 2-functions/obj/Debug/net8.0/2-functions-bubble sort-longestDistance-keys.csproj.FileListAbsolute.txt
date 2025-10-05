@@ -1,0 +1,14 @@
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\bin\Debug\net8.0\2-functions-bubble sort-longestDistance-keys.exe
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\bin\Debug\net8.0\2-functions-bubble sort-longestDistance-keys.deps.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\bin\Debug\net8.0\2-functions-bubble sort-longestDistance-keys.runtimeconfig.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\bin\Debug\net8.0\2-functions-bubble sort-longestDistance-keys.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\bin\Debug\net8.0\2-functions-bubble sort-longestDistance-keys.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions-bubble sort-longestDistance-keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions-bubble sort-longestDistance-keys.AssemblyInfoInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions-bubble sort-longestDistance-keys.AssemblyInfo.cs
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions-bubble sort-longestDistance-keys.csproj.CoreCompileInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions-bubble sort-longestDistance-keys.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\refint\2-functions-bubble sort-longestDistance-keys.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions-bubble sort-longestDistance-keys.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions-bubble sort-longestDistance-keys.genruntimeconfig.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\ref\2-functions-bubble sort-longestDistance-keys.dll

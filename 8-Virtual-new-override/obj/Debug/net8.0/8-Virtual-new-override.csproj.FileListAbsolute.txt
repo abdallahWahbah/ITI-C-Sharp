@@ -1,0 +1,14 @@
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\8-Virtual-new-override\bin\Debug\net8.0\8-Virtual-new-override.exe
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\8-Virtual-new-override\bin\Debug\net8.0\8-Virtual-new-override.deps.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\8-Virtual-new-override\bin\Debug\net8.0\8-Virtual-new-override.runtimeconfig.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\8-Virtual-new-override\bin\Debug\net8.0\8-Virtual-new-override.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\8-Virtual-new-override\bin\Debug\net8.0\8-Virtual-new-override.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\8-Virtual-new-override\obj\Debug\net8.0\8-Virtual-new-override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\8-Virtual-new-override\obj\Debug\net8.0\8-Virtual-new-override.AssemblyInfoInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\8-Virtual-new-override\obj\Debug\net8.0\8-Virtual-new-override.AssemblyInfo.cs
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\8-Virtual-new-override\obj\Debug\net8.0\8-Virtual-new-override.csproj.CoreCompileInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\8-Virtual-new-override\obj\Debug\net8.0\8-Virtual-new-override.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\8-Virtual-new-override\obj\Debug\net8.0\refint\8-Virtual-new-override.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\8-Virtual-new-override\obj\Debug\net8.0\8-Virtual-new-override.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\8-Virtual-new-override\obj\Debug\net8.0\8-Virtual-new-override.genruntimeconfig.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\8-Virtual-new-override\obj\Debug\net8.0\ref\8-Virtual-new-override.dll

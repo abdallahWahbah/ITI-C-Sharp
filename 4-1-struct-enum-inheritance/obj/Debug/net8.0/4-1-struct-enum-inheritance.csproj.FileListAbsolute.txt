@@ -1,0 +1,14 @@
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\4-1-struct-enum-inheritance\bin\Debug\net8.0\4-1-struct-enum-inheritance.exe
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\4-1-struct-enum-inheritance\bin\Debug\net8.0\4-1-struct-enum-inheritance.deps.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\4-1-struct-enum-inheritance\bin\Debug\net8.0\4-1-struct-enum-inheritance.runtimeconfig.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\4-1-struct-enum-inheritance\bin\Debug\net8.0\4-1-struct-enum-inheritance.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\4-1-struct-enum-inheritance\bin\Debug\net8.0\4-1-struct-enum-inheritance.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\4-1-struct-enum-inheritance\obj\Debug\net8.0\4-1-struct-enum-inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\4-1-struct-enum-inheritance\obj\Debug\net8.0\4-1-struct-enum-inheritance.AssemblyInfoInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\4-1-struct-enum-inheritance\obj\Debug\net8.0\4-1-struct-enum-inheritance.AssemblyInfo.cs
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\4-1-struct-enum-inheritance\obj\Debug\net8.0\4-1-struct-enum-inheritance.csproj.CoreCompileInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\4-1-struct-enum-inheritance\obj\Debug\net8.0\4-1-struct-enum-inheritance.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\4-1-struct-enum-inheritance\obj\Debug\net8.0\refint\4-1-struct-enum-inheritance.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\4-1-struct-enum-inheritance\obj\Debug\net8.0\4-1-struct-enum-inheritance.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\4-1-struct-enum-inheritance\obj\Debug\net8.0\4-1-struct-enum-inheritance.genruntimeconfig.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\4-1-struct-enum-inheritance\obj\Debug\net8.0\ref\4-1-struct-enum-inheritance.dll

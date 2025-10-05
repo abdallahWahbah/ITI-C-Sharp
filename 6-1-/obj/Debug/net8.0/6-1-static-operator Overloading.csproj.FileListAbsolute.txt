@@ -1,0 +1,14 @@
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\6-1-\bin\Debug\net8.0\6-1-static-operator Overloading.exe
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\6-1-\bin\Debug\net8.0\6-1-static-operator Overloading.deps.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\6-1-\bin\Debug\net8.0\6-1-static-operator Overloading.runtimeconfig.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\6-1-\bin\Debug\net8.0\6-1-static-operator Overloading.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\6-1-\bin\Debug\net8.0\6-1-static-operator Overloading.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\6-1-\obj\Debug\net8.0\6-1-static-operator Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\6-1-\obj\Debug\net8.0\6-1-static-operator Overloading.AssemblyInfoInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\6-1-\obj\Debug\net8.0\6-1-static-operator Overloading.AssemblyInfo.cs
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\6-1-\obj\Debug\net8.0\6-1-static-operator Overloading.csproj.CoreCompileInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\6-1-\obj\Debug\net8.0\6-1-static-operator Overloading.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\6-1-\obj\Debug\net8.0\refint\6-1-static-operator Overloading.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\6-1-\obj\Debug\net8.0\6-1-static-operator Overloading.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\6-1-\obj\Debug\net8.0\6-1-static-operator Overloading.genruntimeconfig.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\6-1-\obj\Debug\net8.0\ref\6-1-static-operator Overloading.dll

@@ -1,0 +1,14 @@
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\bin\Debug\net8.0\2-functions.exe
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\bin\Debug\net8.0\2-functions.deps.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\bin\Debug\net8.0\2-functions.runtimeconfig.json
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\bin\Debug\net8.0\2-functions.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\bin\Debug\net8.0\2-functions.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions.AssemblyInfoInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions.AssemblyInfo.cs
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions.csproj.CoreCompileInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\refint\2-functions.dll
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\2-functions.genruntimeconfig.cache
+C:\Users\abdow\OneDrive\Desktop\projects\ITI\2-functions\obj\Debug\net8.0\ref\2-functions.dll
