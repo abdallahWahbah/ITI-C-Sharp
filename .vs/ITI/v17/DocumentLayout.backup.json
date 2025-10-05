@@ -1,88 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\ITI\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{DCAC7FCD-68F0-4B11-A413-5512DD016C45}|8-Virtual-new-override\\8-Virtual-new-override.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\iti\\8-virtual-new-override\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCAC7FCD-68F0-4B11-A413-5512DD016C45}|8-Virtual-new-override\\8-Virtual-new-override.csproj|solutionrelative:8-virtual-new-override\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCAC7FCD-68F0-4B11-A413-5512DD016C45}|8-Virtual-new-override\\8-Virtual-new-override.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\iti\\8-virtual-new-override\\c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCAC7FCD-68F0-4B11-A413-5512DD016C45}|8-Virtual-new-override\\8-Virtual-new-override.csproj|solutionrelative:8-virtual-new-override\\c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCAC7FCD-68F0-4B11-A413-5512DD016C45}|8-Virtual-new-override\\8-Virtual-new-override.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\iti\\8-virtual-new-override\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCAC7FCD-68F0-4B11-A413-5512DD016C45}|8-Virtual-new-override\\8-Virtual-new-override.csproj|solutionrelative:8-virtual-new-override\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCAC7FCD-68F0-4B11-A413-5512DD016C45}|8-Virtual-new-override\\8-Virtual-new-override.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\iti\\8-virtual-new-override\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCAC7FCD-68F0-4B11-A413-5512DD016C45}|8-Virtual-new-override\\8-Virtual-new-override.csproj|solutionrelative:8-virtual-new-override\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "A.cs",
-              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\ITI\\8-Virtual-new-override\\A.cs",
-              "RelativeDocumentMoniker": "8-Virtual-new-override\\A.cs",
-              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\ITI\\8-Virtual-new-override\\A.cs",
-              "RelativeToolTip": "8-Virtual-new-override\\A.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T19:00:55.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "B.cs",
-              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\ITI\\8-Virtual-new-override\\B.cs",
-              "RelativeDocumentMoniker": "8-Virtual-new-override\\B.cs",
-              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\ITI\\8-Virtual-new-override\\B.cs",
-              "RelativeToolTip": "8-Virtual-new-override\\B.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T19:01:12.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "C.cs",
-              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\ITI\\8-Virtual-new-override\\C.cs",
-              "RelativeDocumentMoniker": "8-Virtual-new-override\\C.cs",
-              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\ITI\\8-Virtual-new-override\\C.cs",
-              "RelativeToolTip": "8-Virtual-new-override\\C.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T19:01:18.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\ITI\\8-Virtual-new-override\\Program.cs",
-              "RelativeDocumentMoniker": "8-Virtual-new-override\\Program.cs",
-              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\ITI\\8-Virtual-new-override\\Program.cs",
-              "RelativeToolTip": "8-Virtual-new-override\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T19:00:45.741Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
