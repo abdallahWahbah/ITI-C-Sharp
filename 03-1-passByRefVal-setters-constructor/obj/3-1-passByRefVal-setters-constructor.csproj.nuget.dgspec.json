@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\03-1-passByRefVal-setters-constructor\\3-1-passByRefVal-setters-constructor.csproj": {}
+    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\03-1-passByRefVal-setters-constructor\\3-1-passByRefVal-setters-constructor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\03-1-passByRefVal-setters-constructor\\3-1-passByRefVal-setters-constructor.csproj": {
+    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\03-1-passByRefVal-setters-constructor\\3-1-passByRefVal-setters-constructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\03-1-passByRefVal-setters-constructor\\3-1-passByRefVal-setters-constructor.csproj",
+        "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\03-1-passByRefVal-setters-constructor\\3-1-passByRefVal-setters-constructor.csproj",
         "projectName": "3-1-passByRefVal-setters-constructor",
-        "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\03-1-passByRefVal-setters-constructor\\3-1-passByRefVal-setters-constructor.csproj",
+        "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\03-1-passByRefVal-setters-constructor\\3-1-passByRefVal-setters-constructor.csproj",
         "packagesPath": "C:\\Users\\abdow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\03-1-passByRefVal-setters-constructor\\obj\\",
+        "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\03-1-passByRefVal-setters-constructor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\08-Virtual-new-override\\8-Virtual-new-override.csproj": {}
+    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\08-Virtual-new-override\\8-Virtual-new-override.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\08-Virtual-new-override\\8-Virtual-new-override.csproj": {
+    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\08-Virtual-new-override\\8-Virtual-new-override.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\08-Virtual-new-override\\8-Virtual-new-override.csproj",
+        "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\08-Virtual-new-override\\8-Virtual-new-override.csproj",
         "projectName": "8-Virtual-new-override",
-        "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\08-Virtual-new-override\\8-Virtual-new-override.csproj",
+        "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\08-Virtual-new-override\\8-Virtual-new-override.csproj",
         "packagesPath": "C:\\Users\\abdow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\08-Virtual-new-override\\obj\\",
+        "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\08-Virtual-new-override\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

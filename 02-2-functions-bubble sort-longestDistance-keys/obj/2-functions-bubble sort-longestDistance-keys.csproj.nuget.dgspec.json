@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\02-2-functions-bubble sort-longestDistance-keys\\2-functions-bubble sort-longestDistance-keys.csproj": {}
+    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\02-2-functions-bubble sort-longestDistance-keys\\2-functions-bubble sort-longestDistance-keys.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\02-2-functions-bubble sort-longestDistance-keys\\2-functions-bubble sort-longestDistance-keys.csproj": {
+    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\02-2-functions-bubble sort-longestDistance-keys\\2-functions-bubble sort-longestDistance-keys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\02-2-functions-bubble sort-longestDistance-keys\\2-functions-bubble sort-longestDistance-keys.csproj",
+        "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\02-2-functions-bubble sort-longestDistance-keys\\2-functions-bubble sort-longestDistance-keys.csproj",
         "projectName": "2-functions-bubble sort-longestDistance-keys",
-        "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\02-2-functions-bubble sort-longestDistance-keys\\2-functions-bubble sort-longestDistance-keys.csproj",
+        "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\02-2-functions-bubble sort-longestDistance-keys\\2-functions-bubble sort-longestDistance-keys.csproj",
         "packagesPath": "C:\\Users\\abdow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\02-2-functions-bubble sort-longestDistance-keys\\obj\\",
+        "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\02-2-functions-bubble sort-longestDistance-keys\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

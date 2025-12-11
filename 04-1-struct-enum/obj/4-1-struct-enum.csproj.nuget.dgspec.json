@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\04-1-struct-enum\\4-1-struct-enum.csproj": {}
+    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\04-1-struct-enum\\4-1-struct-enum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\04-1-struct-enum\\4-1-struct-enum.csproj": {
+    "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\04-1-struct-enum\\4-1-struct-enum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\04-1-struct-enum\\4-1-struct-enum.csproj",
+        "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\04-1-struct-enum\\4-1-struct-enum.csproj",
         "projectName": "4-1-struct-enum",
-        "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\04-1-struct-enum\\4-1-struct-enum.csproj",
+        "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\04-1-struct-enum\\4-1-struct-enum.csproj",
         "packagesPath": "C:\\Users\\abdow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-ITI\\04-1-struct-enum\\obj\\",
+        "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\04-1-struct-enum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

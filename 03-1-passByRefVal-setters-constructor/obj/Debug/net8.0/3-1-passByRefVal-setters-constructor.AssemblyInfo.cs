@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3-1-passByRefVal-setters-constructor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd6e4dd7a6c8c746677dd1ad538b84949e9a0775")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33794c9d5b686b0e6e38108ccc3ce6def11ce6f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("3-1-passByRefVal-setters-constructor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3-1-passByRefVal-setters-constructor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
