@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC53EBA7-66BA-4DDF-8608-C0B4077D681E}|z-test\\z-test.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\1-c#\\z-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC53EBA7-66BA-4DDF-8608-C0B4077D681E}|z-test\\z-test.csproj|solutionrelative:z-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF895AF-859C-C472-93BD-FD966F037D8C}|06-Inheritance-boxing-casting-nullable-params\\6-Inheritance-boxing-casting-nullable-params.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\1-c#\\06-inheritance-boxing-casting-nullable-params\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF895AF-859C-C472-93BD-FD966F037D8C}|06-Inheritance-boxing-casting-nullable-params\\6-Inheritance-boxing-casting-nullable-params.csproj|solutionrelative:06-inheritance-boxing-casting-nullable-params\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF895AF-859C-C472-93BD-FD966F037D8C}|06-Inheritance-boxing-casting-nullable-params\\6-Inheritance-boxing-casting-nullable-params.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\1-c#\\06-inheritance-boxing-casting-nullable-params\\shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF895AF-859C-C472-93BD-FD966F037D8C}|06-Inheritance-boxing-casting-nullable-params\\6-Inheritance-boxing-casting-nullable-params.csproj|solutionrelative:06-inheritance-boxing-casting-nullable-params\\shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF895AF-859C-C472-93BD-FD966F037D8C}|06-Inheritance-boxing-casting-nullable-params\\6-Inheritance-boxing-casting-nullable-params.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\1-c#\\06-inheritance-boxing-casting-nullable-params\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF895AF-859C-C472-93BD-FD966F037D8C}|06-Inheritance-boxing-casting-nullable-params\\6-Inheritance-boxing-casting-nullable-params.csproj|solutionrelative:06-inheritance-boxing-casting-nullable-params\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF895AF-859C-C472-93BD-FD966F037D8C}|06-Inheritance-boxing-casting-nullable-params\\6-Inheritance-boxing-casting-nullable-params.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\1-c#\\06-inheritance-boxing-casting-nullable-params\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF895AF-859C-C472-93BD-FD966F037D8C}|06-Inheritance-boxing-casting-nullable-params\\6-Inheritance-boxing-casting-nullable-params.csproj|solutionrelative:06-inheritance-boxing-casting-nullable-params\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF895AF-859C-C472-93BD-FD966F037D8C}|06-Inheritance-boxing-casting-nullable-params\\6-Inheritance-boxing-casting-nullable-params.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\1-c#\\06-inheritance-boxing-casting-nullable-params\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF895AF-859C-C472-93BD-FD966F037D8C}|06-Inheritance-boxing-casting-nullable-params\\6-Inheritance-boxing-casting-nullable-params.csproj|solutionrelative:06-inheritance-boxing-casting-nullable-params\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\06-Inheritance-boxing-casting-nullable-params\\Program.cs",
+              "RelativeDocumentMoniker": "06-Inheritance-boxing-casting-nullable-params\\Program.cs",
+              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\06-Inheritance-boxing-casting-nullable-params\\Program.cs",
+              "RelativeToolTip": "06-Inheritance-boxing-casting-nullable-params\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAYwGUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:54:14.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\06-Inheritance-boxing-casting-nullable-params\\Shapes\\Triangle.cs",
+              "RelativeDocumentMoniker": "06-Inheritance-boxing-casting-nullable-params\\Shapes\\Triangle.cs",
+              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\06-Inheritance-boxing-casting-nullable-params\\Shapes\\Triangle.cs",
+              "RelativeToolTip": "06-Inheritance-boxing-casting-nullable-params\\Shapes\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:54:12.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\06-Inheritance-boxing-casting-nullable-params\\Shapes\\Shape.cs",
+              "RelativeDocumentMoniker": "06-Inheritance-boxing-casting-nullable-params\\Shapes\\Shape.cs",
+              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\06-Inheritance-boxing-casting-nullable-params\\Shapes\\Shape.cs",
+              "RelativeToolTip": "06-Inheritance-boxing-casting-nullable-params\\Shapes\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:54:11.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\06-Inheritance-boxing-casting-nullable-params\\Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "06-Inheritance-boxing-casting-nullable-params\\Shapes\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\06-Inheritance-boxing-casting-nullable-params\\Shapes\\Rectangle.cs",
+              "RelativeToolTip": "06-Inheritance-boxing-casting-nullable-params\\Shapes\\Rectangle.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:54:08.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\06-Inheritance-boxing-casting-nullable-params\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "06-Inheritance-boxing-casting-nullable-params\\Shapes\\Circle.cs",
+              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\06-Inheritance-boxing-casting-nullable-params\\Shapes\\Circle.cs",
+              "RelativeToolTip": "06-Inheritance-boxing-casting-nullable-params\\Shapes\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:54:03.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\z-test\\Program.cs",
+              "RelativeDocumentMoniker": "z-test\\Program.cs",
+              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\z-test\\Program.cs",
+              "RelativeToolTip": "z-test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:52:31.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1115,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

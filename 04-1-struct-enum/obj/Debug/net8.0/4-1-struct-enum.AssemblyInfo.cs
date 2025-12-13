@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4-1-struct-enum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33794c9d5b686b0e6e38108ccc3ce6def11ce6f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16c67538ed5f4610d00253da241a97552d7039b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("4-1-struct-enum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4-1-struct-enum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -22,7 +22,7 @@ namespace Basics
             /// keys, functions, bubble sort, longest distance 
             /////////////////////////////////////////
             
-            #region is prime number (using function)
+            #region is prime number (using function) // number can be divided on its value or "1" only
             bool isPrime(int number)
             {
                 if (number <= 1)
@@ -118,7 +118,7 @@ namespace Basics
             int index = getIndex(itemValue, numbers);
             Console.WriteLine(index == -1 ? "Doesn't Exists" : $"Index of {itemValue} is {index}");
 
-            // bubble sort
+            // bubble sort // https://deen3evddmddt.cloudfront.net/uploads/content-images/how-bubble-sort-works.webp
             for (var i = 0; i < numbers.Length; i++)
             {
                 for (var j = 0; j < numbers.Length - i - 1; j++)
@@ -183,7 +183,7 @@ namespace Basics
             Console.WriteLine($"number of prime numbers in [3, 5, 6, 7, 8] is: {getNumberOfPrimeNumber([3, 5, 6, 7, 8])}");
             #endregion
 
-            #region Longest distance between 2 numbers
+            #region Longest distance between 2 equal numbers
             int getLongestDistance(int[] arr)
             {
                 int maxDistance = 0;

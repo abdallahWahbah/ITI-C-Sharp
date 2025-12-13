@@ -1,0 +1,15 @@
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\01-Syntax\bin\Debug\net8.0\01-Syntax.exe
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\01-Syntax\bin\Debug\net8.0\01-Syntax.deps.json
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\01-Syntax\bin\Debug\net8.0\01-Syntax.runtimeconfig.json
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\01-Syntax\bin\Debug\net8.0\01-Syntax.dll
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\01-Syntax\bin\Debug\net8.0\01-Syntax.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\01-Syntax\obj\Debug\net8.0\01-Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\01-Syntax\obj\Debug\net8.0\01-Syntax.AssemblyInfoInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\01-Syntax\obj\Debug\net8.0\01-Syntax.AssemblyInfo.cs
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\01-Syntax\obj\Debug\net8.0\01-Syntax.csproj.CoreCompileInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\01-Syntax\obj\Debug\net8.0\01-Syntax.sourcelink.json
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\01-Syntax\obj\Debug\net8.0\01-Syntax.dll
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\01-Syntax\obj\Debug\net8.0\refint\01-Syntax.dll
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\01-Syntax\obj\Debug\net8.0\01-Syntax.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\01-Syntax\obj\Debug\net8.0\01-Syntax.genruntimeconfig.cache
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\01-Syntax\obj\Debug\net8.0\ref\01-Syntax.dll

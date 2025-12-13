@@ -12,7 +12,6 @@ namespace _8_Virtual_new_override
         {
             Console.WriteLine("B");
         }
-
         public new virtual void AVirtual_BNewVirtual_COverride()
         {
             Console.WriteLine("B");

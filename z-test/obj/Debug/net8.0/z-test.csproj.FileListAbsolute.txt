@@ -1,0 +1,15 @@
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\z-test\bin\Debug\net8.0\z-test.exe
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\z-test\bin\Debug\net8.0\z-test.deps.json
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\z-test\bin\Debug\net8.0\z-test.runtimeconfig.json
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\z-test\bin\Debug\net8.0\z-test.dll
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\z-test\bin\Debug\net8.0\z-test.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\z-test\obj\Debug\net8.0\z-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\z-test\obj\Debug\net8.0\z-test.AssemblyInfoInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\z-test\obj\Debug\net8.0\z-test.AssemblyInfo.cs
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\z-test\obj\Debug\net8.0\z-test.csproj.CoreCompileInputs.cache
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\z-test\obj\Debug\net8.0\z-test.sourcelink.json
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\z-test\obj\Debug\net8.0\z-test.dll
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\z-test\obj\Debug\net8.0\refint\z-test.dll
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\z-test\obj\Debug\net8.0\z-test.pdb
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\z-test\obj\Debug\net8.0\z-test.genruntimeconfig.cache
+C:\Users\abdow\OneDrive\Desktop\projects\1-C#\z-test\obj\Debug\net8.0\ref\z-test.dll

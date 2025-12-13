@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFFC91E4-A347-540D-0406-A53143E6BF4E}|01-Syntax\\01-Syntax.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\1-c#\\01-syntax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFC91E4-A347-540D-0406-A53143E6BF4E}|01-Syntax\\01-Syntax.csproj|solutionrelative:01-syntax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD116611-0C87-0B6B-6391-BC3F566EF001}|08-Virtual-new-override\\8-Virtual-new-override.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\1-c#\\08-virtual-new-override\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD116611-0C87-0B6B-6391-BC3F566EF001}|08-Virtual-new-override\\8-Virtual-new-override.csproj|solutionrelative:08-virtual-new-override\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD116611-0C87-0B6B-6391-BC3F566EF001}|08-Virtual-new-override\\8-Virtual-new-override.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\1-c#\\08-virtual-new-override\\c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD116611-0C87-0B6B-6391-BC3F566EF001}|08-Virtual-new-override\\8-Virtual-new-override.csproj|solutionrelative:08-virtual-new-override\\c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD116611-0C87-0B6B-6391-BC3F566EF001}|08-Virtual-new-override\\8-Virtual-new-override.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\1-c#\\08-virtual-new-override\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD116611-0C87-0B6B-6391-BC3F566EF001}|08-Virtual-new-override\\8-Virtual-new-override.csproj|solutionrelative:08-virtual-new-override\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD116611-0C87-0B6B-6391-BC3F566EF001}|08-Virtual-new-override\\8-Virtual-new-override.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\1-c#\\08-virtual-new-override\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD116611-0C87-0B6B-6391-BC3F566EF001}|08-Virtual-new-override\\8-Virtual-new-override.csproj|solutionrelative:08-virtual-new-override\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +36,52 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\01-Syntax\\Program.cs",
-              "RelativeDocumentMoniker": "01-Syntax\\Program.cs",
-              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\01-Syntax\\Program.cs",
-              "RelativeToolTip": "01-Syntax\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\08-Virtual-new-override\\Program.cs",
+              "RelativeDocumentMoniker": "08-Virtual-new-override\\Program.cs",
+              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\08-Virtual-new-override\\Program.cs",
+              "RelativeToolTip": "08-Virtual-new-override\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T13:54:49.683Z",
+              "WhenOpened": "2025-12-13T10:55:46.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "A.cs",
+              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\08-Virtual-new-override\\A.cs",
+              "RelativeDocumentMoniker": "08-Virtual-new-override\\A.cs",
+              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\08-Virtual-new-override\\A.cs",
+              "RelativeToolTip": "08-Virtual-new-override\\A.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:55:45.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "B.cs",
+              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\08-Virtual-new-override\\B.cs",
+              "RelativeDocumentMoniker": "08-Virtual-new-override\\B.cs",
+              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\08-Virtual-new-override\\B.cs",
+              "RelativeToolTip": "08-Virtual-new-override\\B.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:55:45.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "C.cs",
+              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\08-Virtual-new-override\\C.cs",
+              "RelativeDocumentMoniker": "08-Virtual-new-override\\C.cs",
+              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\1-C#\\08-Virtual-new-override\\C.cs",
+              "RelativeToolTip": "08-Virtual-new-override\\C.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:55:44.674Z",
               "EditorCaption": ""
             }
           ]
